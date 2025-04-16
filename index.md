@@ -5,3 +5,6 @@ At the bottom of the page, type a short, meaningful commit message that describe
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
